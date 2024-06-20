@@ -1,1 +1,37 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon</title>
+    <link rel="stylesheet" href="amazon.css">
+</head>
+<body>
+    <header>
+        <div id="head">
+                <a id="logo" href="#">amazon.com</a>
+                <a href="#">Account</a>
+                <a href="#">My Cart</a>
+            <div id="search">
+                <input type="text" placeholder="Search Amazon.com">
+                <button>Search</button>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div id="maindiv">
+            <div id="div1">
+                CONTENT
+            </div>
+            <div id="div2">
+                CONTENT
+            </div>
+        </div>
+    </main>
+    <footer>
+        Made with &hearts; Balaji
+        <br>
+        &#169; Do not copy my code 
+    </footer>
+</body>
+</html>
