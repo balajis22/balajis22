@@ -1,110 +1,164 @@
 <div align="center">
 
-# Balaji S
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=BALAJI%20S&fontSize=60&fontColor=c9d1d9&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20in%20the%20Making&descAlignY=58&descSize=16&descColor=8b949e)
 
-**AI & Machine Learning Student @ CMR Institute of Technology, Bengaluru**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Turning+data+into+decisions...;Always+learning%2C+always+shipping...)](https://git.io/typing-svg)
 
-*Aspiring Software Engineer · Building intelligent systems, one model at a time.*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajis2206)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/balajis22)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/balajis22)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:balajisuresh22062005@gmail.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajis2206)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balajis22)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/balajis22)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balajisuresh22062005@gmail.com)
 
 </div>
 
-## `whoami`
+---
 
 ```python
-balaji = {
-    "degree"    : "B.E – Artificial Intelligence & Machine Learning",
-    "college"   : "CMR Institute of Technology, Bengaluru",
-    "cgpa"      : 7.31,
-    "batch"     : 2027,
-    "focus"     : ["Machine Learning", "Data Analysis", "Full Stack Web Dev"],
-    "currently" : "Learning, building, experimenting 🚀",
-}
+class Balaji:
+    name       = "Balaji S"
+    degree     = "B.E – Artificial Intelligence & Machine Learning"
+    college    = "CMR Institute of Technology, Bengaluru"
+    cgpa       = 7.31
+    batch      = 2027
+    interests  = ["Machine Learning", "Data Science", "Full Stack Dev"]
+    status     = "🟢 Open to opportunities"
+
+    def say_hi(self):
+        print("Hey! I turn raw data into real-world solutions.")
 ```
 
 ---
 
-## `tech_stack`
+<div align="center">
 
-**Languages**
+## ⚡ Tech Arsenal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**ML / Data Science**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
----
-
-## `projects`
-
-### 📈 Sales Forecasting using Machine Learning
-> Built an end-to-end ML pipeline to forecast future sales from historical data.
-- EDA on transactional data to uncover trends and seasonality
-- Feature engineering on date-based data; built a **Linear Regression** model
-- Evaluated with MAE, RMSE, R² · Visualized with **Matplotlib & Seaborn**
-
-### 🎧 AudioBook using Python
-> A Python app that converts PDF text to speech with full playback controls.
-- Play, pause, rewind, forward controls + live text highlighting
-- Export audio files for offline use · Focused on accessibility
-
-### 🛒 Amazon Clone
-> Front-end clone of Amazon.in built with HTML & CSS.
-- Pixel-faithful recreation of layout and UI components
-- Responsive design for cross-device compatibility
-
----
-
-## `certifications`
-
-- 🏅 The Complete Python Bootcamp – Zero to Hero *(Udemy)*
-- 🏅 Website Development Tutorial *(Infosys Springboard)*
-- 🏅 Master Full Stack Web Development with Games & Applications *(Udemy)*
-
----
-
-## `github_stats`
+</div>
 
 <div align="center">
 
-![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajis22&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=555555&icon_color=000000)
+**Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balajis22&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=555555)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/balajis22?theme=light&font=Karma&ext=heatmap)
+**AI / ML & Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=4C72B0)
+![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=E97627)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
+
+</div>
+
+---
+
+## 🛸 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📈 Sales Forecasting — ML
+> End-to-end ML pipeline on historical sales data.
+
+- EDA to uncover trends & seasonality
+- Feature engineering on date-based features
+- **Linear Regression** · Evaluated with MAE, RMSE, R²
+- Visualized with Matplotlib & Seaborn
+
+</td>
+<td width="50%">
+
+### 🎧 AudioBook — Python
+> PDF-to-speech app with full playback control.
+
+- Play · Pause · Rewind · Forward
+- Live text highlighting while reading
+- Export audio for offline use
+- Built for accessibility
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 Amazon Clone — Web Dev
+> Front-end clone of Amazon.in
+
+- Pixel-faithful HTML & CSS recreation
+- Responsive design across devices
+- Hands-on UI/UX & layout practice
+
+</td>
+<td width="50%">
+
+### 🔭 What's Next?
+> Currently exploring...
+
+- Deep Learning & Neural Networks
+- NLP & Transformer models
+- More ML projects incoming 🚀
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Platform |
+|---|---|
+| The Complete Python Bootcamp – Zero to Hero | Udemy |
+| Website Development Tutorial | Infosys Springboard |
+| Master Full Stack Web Dev with Games & Apps | Udemy |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajis22&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=balajis22&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balajis22&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117)
+
+</div>
+
+---
+
+## ⚔️ LeetCode
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/balajis22?theme=dark&font=Karma&ext=heatmap)
 
 </div>
 
@@ -112,8 +166,10 @@ balaji = {
 
 <div align="center">
 
-*"The best way to learn ML is to build things that break."*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=120&section=footer)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=balajis22.balajis22)
+*"In the dark, the data still speaks — you just have to listen."*
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=balajis22.balajis22&color=58A6FF)
 
 </div>
