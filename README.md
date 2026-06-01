@@ -1,8 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=BALAJI%20S&fontSize=60&fontColor=c9d1d9&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20in%20the%20Making&descAlignY=58&descSize=16&descColor=8b949e)
+```
+██████╗  █████╗ ██╗      █████╗      ██╗██╗    ███████╗
+██╔══██╗██╔══██╗██║     ██╔══██╗     ██║██║    ██╔════╝
+██████╔╝███████║██║     ███████║     ██║██║    ███████╗
+██╔══██╗██╔══██║██║     ██╔══██║██   ██║██║    ╚════██║
+██████╔╝██║  ██║███████╗██║  ██║╚█████╔╝██║    ███████║
+╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚════╝ ╚═╝   ╚══════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Turning+data+into+decisions...;Always+learning%2C+always+shipping...)](https://git.io/typing-svg)
+### `AI · ML · Full Stack · Always Building`
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Turning+data+into+decisions...;Always+learning%2C+always+shipping...)](https://git.io/typing-svg)
 
 <br/>
 
@@ -162,7 +171,6 @@ class Balaji:
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=120&section=footer)
 
 *"In the dark, the data still speaks — you just have to listen."*
 
