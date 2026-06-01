@@ -18,12 +18,12 @@
 ```python
 class Balaji:
     name       = "Balaji S"
-    degree     = "B.E – Artificial Intelligence & Machine Learning"
+    degree     = "B.E - Artificial Intelligence and Machine Learning"
     college    = "CMR Institute of Technology, Bengaluru"
     cgpa       = 7.31
     batch      = 2027
     interests  = ["Machine Learning", "Data Science", "Full Stack Dev"]
-    status     = "🟢 Open to opportunities"
+    status     = "Open to opportunities"
 
     def say_hi(self):
         print("Hey! I turn raw data into real-world solutions.")
@@ -35,10 +35,6 @@ class Balaji:
 
 ## ⚡ Tech Arsenal
 
-</div>
-
-<div align="center">
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -47,7 +43,7 @@ class Balaji:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-**AI / ML & Data Science**
+**AI · ML · Data Science**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
@@ -55,7 +51,7 @@ class Balaji:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=4C72B0)
 ![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=E97627)
-![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Power BI](https://img.shields.io/badge/PowerBI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 
 **Web Development**
 
@@ -86,10 +82,10 @@ class Balaji:
 ### 📈 Sales Forecasting — ML
 > End-to-end ML pipeline on historical sales data.
 
-- EDA to uncover trends & seasonality
+- EDA to uncover trends and seasonality
 - Feature engineering on date-based features
-- **Linear Regression** · Evaluated with MAE, RMSE, R²
-- Visualized with Matplotlib & Seaborn
+- Linear Regression · Evaluated with MAE, RMSE, R²
+- Visualized with Matplotlib and Seaborn
 
 </td>
 <td width="50%">
@@ -110,9 +106,9 @@ class Balaji:
 ### 🛒 Amazon Clone — Web Dev
 > Front-end clone of Amazon.in
 
-- Pixel-faithful HTML & CSS recreation
+- Pixel-faithful HTML and CSS recreation
 - Responsive design across devices
-- Hands-on UI/UX & layout practice
+- Hands-on UI/UX and layout practice
 
 </td>
 <td width="50%">
@@ -120,8 +116,8 @@ class Balaji:
 ### 🔭 What's Next?
 > Currently exploring...
 
-- Deep Learning & Neural Networks
-- NLP & Transformer models
+- Deep Learning and Neural Networks
+- NLP and Transformer models
 - More ML projects incoming 🚀
 
 </td>
@@ -136,7 +132,7 @@ class Balaji:
 |---|---|
 | The Complete Python Bootcamp – Zero to Hero | Udemy |
 | Website Development Tutorial | Infosys Springboard |
-| Master Full Stack Web Dev with Games & Apps | Udemy |
+| Master Full Stack Web Dev with Games and Apps | Udemy |
 
 ---
 
