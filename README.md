@@ -149,21 +149,11 @@ class Balaji:
 
 <div align="center">
 
-![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajis22&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=0d1117)
+[![Balaji's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=balajis22&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&bg_color=0d1117)](https://github.com/balajis22)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=balajis22&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=balajis22&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/balajis22)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balajis22&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117)
-
-</div>
-
----
-
-## ⚔️ LeetCode
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/balajis22?theme=dark&font=Karma&ext=heatmap)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=balajis22&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://github.com/balajis22)
 
 </div>
 
