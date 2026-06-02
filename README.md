@@ -159,8 +159,17 @@ class Balaji:
 
 ---
 
+## ⚔️ LeetCode Stats
+
 <div align="center">
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/balajis22?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/u/balajis22)
+
+</div>
+
+---
+
+<div align="center">
 
 *"In the dark, the data still speaks — you just have to listen."*
 
