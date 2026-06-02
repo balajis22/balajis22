@@ -29,7 +29,6 @@ class Balaji:
     name       = "Balaji S"
     degree     = "B.E - Artificial Intelligence and Machine Learning"
     college    = "CMR Institute of Technology, Bengaluru"
-    cgpa       = 7.31
     batch      = 2027
     interests  = ["Machine Learning", "Data Science", "Full Stack Dev"]
     status     = "Open to opportunities"
