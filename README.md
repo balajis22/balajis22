@@ -81,59 +81,6 @@ class Balaji:
 
 ---
 
-## 🛸 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 Sales Forecasting — ML
-> End-to-end ML pipeline on historical sales data.
-
-- EDA to uncover trends and seasonality
-- Feature engineering on date-based features
-- Linear Regression · Evaluated with MAE, RMSE, R²
-- Visualized with Matplotlib and Seaborn
-
-</td>
-<td width="50%">
-
-### 🎧 AudioBook — Python
-> PDF-to-speech app with full playback control.
-
-- Play · Pause · Rewind · Forward
-- Live text highlighting while reading
-- Export audio for offline use
-- Built for accessibility
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 Amazon Clone — Web Dev
-> Front-end clone of Amazon.in
-
-- Pixel-faithful HTML and CSS recreation
-- Responsive design across devices
-- Hands-on UI/UX and layout practice
-
-</td>
-<td width="50%">
-
-### 🔭 What's Next?
-> Currently exploring...
-
-- Deep Learning and Neural Networks
-- NLP and Transformer models
-- More ML projects incoming 🚀
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🏅 Certifications
 
 | Certificate | Platform |
